@@ -1,0 +1,12 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border: 1px solid mediumseagreen;
+}
+
+.delete {
+  padding: 10px;
+  color: #fff;
+  background-color: indianred;
+}

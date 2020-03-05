@@ -1,0 +1,11 @@
+.item {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.field {
+  display: block;
+  width: 40%;
+  line-height: 30px;
+  border: 1px solid green;
+}
